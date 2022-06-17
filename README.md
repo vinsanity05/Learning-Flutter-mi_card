@@ -1,6 +1,6 @@
 # What this project does
 
-In this project I will learn more about how to design user interfaces for Flutter apps using the Angela YU Flutter course. For this project, I will create some sort of business card as an app. 
+In this project I will learn more about how to design user interfaces for Flutter apps using the Angela Yu Flutter course. For this project, I will create some sort of business card as an app. 
 
 # What I will learn
 
